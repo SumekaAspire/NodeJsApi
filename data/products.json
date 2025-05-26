@@ -1,0 +1,94 @@
+[
+    {
+      "name": "Wireless Noise Cancelling Headphones",
+      "price": 199.99,
+      "description": "Premium over-ear headphones with active noise cancellation and 30 hours of battery life.",
+      "ratings": 4.5,
+      "images": [
+        { "image": "https://example.com/images/headphones1.jpg" },
+        { "image": "https://example.com/images/headphones2.jpg" }
+      ],
+      "category": "Electronics",
+      "seller": "AudioTech Official Store",
+      "stock": 125
+    },
+    {
+      "name": "Smart Fitness Watch",
+      "price": 89.99,
+      "description": "Track your workouts, heart rate, and sleep patterns with this sleek smart watch.",
+      "ratings": 4.2,
+      "images": [
+        { "image": "https://example.com/images/watch1.jpg" },
+        { "image": "https://example.com/images/watch2.jpg" }
+      ],
+      "category": "Wearables",
+      "seller": "FitWorld Gear",
+      "stock": 240
+    },
+    {
+      "name": "4K UHD Smart TV 55\"",
+      "price": 499.99,
+      "description": "Enjoy stunning 4K visuals and smart connectivity features on this 55-inch television.",
+      "ratings": 4.7,
+      "images": [
+        { "image": "https://example.com/images/tv1.jpg" },
+        { "image": "https://example.com/images/tv2.jpg" }
+      ],
+      "category": "Home Entertainment",
+      "seller": "VisionPlus Electronics",
+      "stock": 60
+    },
+    {
+      "name": "Bluetooth Portable Speaker",
+      "price": 39.95,
+      "description": "Compact, waterproof, and powerful sound — ideal for outdoor activities.",
+      "ratings": 4.3,
+      "images": [
+        { "image": "https://example.com/images/speaker1.jpg" },
+        { "image": "https://example.com/images/speaker2.jpg" }
+      ],
+      "category": "Audio",
+      "seller": "SoundWave Store",
+      "stock": 320
+    },
+    {
+      "name": "Ergonomic Office Chair",
+      "price": 149.99,
+      "description": "Adjustable mesh chair with lumbar support for all-day comfort.",
+      "ratings": 4.6,
+      "images": [
+        { "image": "https://example.com/images/chair1.jpg" },
+        { "image": "https://example.com/images/chair2.jpg" }
+      ],
+      "category": "Furniture",
+      "seller": "OfficeComfort Co.",
+      "stock": 78
+    },
+    {
+      "name": "Gaming Laptop - 16GB RAM, RTX 3060",
+      "price": 1199.00,
+      "description": "High-performance laptop built for gaming and content creation.",
+      "ratings": 4.8,
+      "images": [
+        { "image": "https://example.com/images/laptop1.jpg" },
+        { "image": "https://example.com/images/laptop2.jpg" }
+      ],
+      "category": "Computers",
+      "seller": "NextGen Tech",
+      "stock": 35
+    },
+    {
+      "name": "Stainless Steel Water Bottle",
+      "price": 24.99,
+      "description": "Insulated bottle keeps drinks hot for 12 hours or cold for 24 hours.",
+      "ratings": 4.4,
+      "images": [
+        { "image": "https://example.com/images/bottle1.jpg" },
+        { "image": "https://example.com/images/bottle2.jpg" }
+      ],
+      "category": "Outdoors",
+      "seller": "HydroMax",
+      "stock": 410
+    }
+  ]
+  
