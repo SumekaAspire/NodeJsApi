@@ -20,14 +20,18 @@ const order = await orderModel.create({cartItems,amount,status})
 //Updating products stock
 cartItems.forEach(async (item) => {
     
-    
+
     console.log(item.product.stock, "Item data before accessing product.stock");
 
  const productId = item.product._id.$oid || item.product._id;
+ console.log("product id: " , productId)
+
    const product = await  productModel.findById(productId); //await for databaSE OPERATION
-   console.log(product.stock,"product stock")
+   console.log(product.stock,"product stock : Before process")
    product.stock = product.stock - item.qty;
    await product.save();
+
+   console.log(product.stock,"product stock : After process")
 
 });
 res.json({
